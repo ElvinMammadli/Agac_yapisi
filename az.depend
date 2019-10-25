@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556034489 source:d:\az\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
